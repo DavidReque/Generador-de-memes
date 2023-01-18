@@ -4,3 +4,4 @@ Esta web solo esta disponible para telefonos moviles
 ## Tecnologías usadas
 - React
 * Tailwind CSS
++ Vite JS
